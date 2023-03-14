@@ -1,0 +1,16 @@
+{
+  "name": "customers",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Node.js practice",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "epxress": "^0.0.1-security",
+    "uuid": "^9.0.0"
+  }
+}
